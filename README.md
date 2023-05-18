@@ -1,2 +1,2 @@
 # DesenvolvimentoMobile
-Curso de desenvolvimento para aplicativos utilizando Kotlin
+Curso de desenvolvimento para aplicativos android utilizando Kotlin
